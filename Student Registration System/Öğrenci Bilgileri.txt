@@ -1,0 +1,4 @@
+İclal, Horuz, BM, 1.91, 3, Matematik, 7, 54, Fizik, 4, 74, Bp3, 5, 64
+Ebrar, Kipoğlu, bm, 2.98, 5, Bp3, 5, 74, Bp2, 5, 74, Matematik, 6, 85, Fizik, 3, 85, Differential, 5, 75
+Iclal, Horuz, bm, 2.08, 3, Fs, 3, 52, Fg, 4, 63, Gerh, 5, 74
+345, 535556, e453, 3.48, 3, 24, 526, 354, Ygre, 5, 74, Hgf, 5, 73
