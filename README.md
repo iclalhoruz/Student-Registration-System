@@ -1,1 +1,2 @@
+### STUDENT REGISTRATION SYSTEM
 This term project involves gathering student information and saving it to a file. Upon reading this information from the file, calculations such as the arithmetic mean, standard deviation, and covariance of the courses were performed and reported. Additionally, students whose grades exceeded the course averages were listed along with their respective information. A Makefile was created for compiling and executing the code.
